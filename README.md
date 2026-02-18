@@ -45,5 +45,8 @@ This project demonstrates **Object-Oriented Programming (OOP)** and game logic i
 
 ---
 
+## 🏆 Winning Condition
+
+- Player score is higher than computer score at the end of the game.
 
   

@@ -57,5 +57,17 @@ This project demonstrates **Object-Oriented Programming (OOP)** and game logic i
 
 ---
 
-## 
+## 🚀 Future Improvements
+
+- Add multiple card types (Hearts, Spades, Clubs, Diamonds)
+- Add betting system
+- Add multiplayer mode
+- Add graphical UI (Java Swing)
+- Add sound effects
+
+---
+
+## Author 
+
+- Developed by Monty
   
